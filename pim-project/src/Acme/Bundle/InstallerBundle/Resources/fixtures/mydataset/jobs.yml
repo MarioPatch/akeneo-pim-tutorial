@@ -1,0 +1,8 @@
+jobs:
+    product_import:
+        connector: Specific Connector
+        alias:     specific_product_import
+        label:     My custom xml Connector By Mario Patch
+        type:      import
+        configuration:
+            filePath: src/Acme/Bundle/InstallerBundle/Resources/fixtures/mydataset/products.xml

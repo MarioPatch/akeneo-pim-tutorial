@@ -44,6 +44,8 @@ web/robots.txt
 /vendor/
 
 # Assets and user uploads
+web/css
+web/js
 /web/bundles/
 /web/uploads/
 
